@@ -1,8 +1,8 @@
 {
-  "version": "1.1.1",
-  "publishedAt": "2026-09-07T09:02:11.189225Z",
-  "downloadUrl": "https://github.com/Passion-Over-Pain/agent-releases/releases/download/v1.1.1/LaptopTracker-1.1.1.zip",
-  "sha256": "38ad70684c4c299ada128e1cfee9b325c32ee22805cc9b3cae1aefb4a1e7f196",
+  "version": "1.1.2",
+  "publishedAt": "2026-09-08T10:44:57.140420Z",
+  "downloadUrl": "https://github.com/Passion-Over-Pain/agent-releases/releases/download/v1.1.2/LaptopTracker-1.1.2.zip",
+  "sha256": "cdb190f0f5d8abba8c73686f863327d0210d56acc68fde112bcf909d7d90d4c7",
   "mandatory": false,
   "minimumVersion": null,
   "releaseNotes": null
