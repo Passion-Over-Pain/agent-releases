@@ -1,8 +1,8 @@
 {
-    "version":  "0.1.2-alpha",
-    "publishedAt":  "2026-09-29T07:18:34Z",
-    "downloadUrl":  "https://github.com/Passion-Over-Pain/agent-releases/releases/download/v0.1.2-alpha/Asset360-0.1.2-alpha.apk",
-    "sha256":  "641ce36789d049e858af5a209d256a2b6fa8f483ccce9a0abce74e194cf2014e",
+    "version":  "0.1.3-alpha",
+    "publishedAt":  "2026-09-29T08:18:20Z",
+    "downloadUrl":  "https://github.com/Passion-Over-Pain/agent-releases/releases/download/v0.1.3-alpha/Asset360-0.1.3-alpha.apk",
+    "sha256":  "c73ab7041dcf3cd3b5dbf421f7d1155a14bbe9a9c9b769fb8b64268ff430042c",
     "mandatory":  false,
     "minimumVersion":  null,
     "releaseNotes":  null
